@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "D:\\StudioSpace\\AppText\\ListTest2\\pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-de\\values-de.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 82,
+                    "endOffset": 133
+                },
+                "from": {
+                    "file": "D:\\StudioSpace\\AppText\\ListTest2\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 82,
+                        "endOffset": 133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 138,
+                    "endColumn": 76,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "D:\\StudioSpace\\AppText\\ListTest2\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 138,
+                        "endColumn": 76,
+                        "endOffset": 210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 215,
+                    "endColumn": 88,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "D:\\StudioSpace\\AppText\\ListTest2\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 215,
+                        "endColumn": 88,
+                        "endOffset": 299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 304,
+                    "endColumn": 83,
+                    "endOffset": 383
+                },
+                "from": {
+                    "file": "D:\\StudioSpace\\AppText\\ListTest2\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 304,
+                        "endColumn": 83,
+                        "endOffset": 383
+                    }
+                }
+            }
+        ]
+    }
+]
